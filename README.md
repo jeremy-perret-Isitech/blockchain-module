@@ -1,6 +1,6 @@
 ## TP Blockchain
 
-Il y à 3 projets dans ce repo, ce sont les traveaux que j'ai réalisé cette semaine.<br><br>
+Il y à 3 projets dans ce repo, ce sont les travaux que j'ai réalisé cette semaine.<br><br>
 Le projet "JeremyToken" est le premier projet qui consistais à déployer son propre token.<br>
 Le projet "Truffle" visant à essayer de deployé une blockchain en local et à intéragir avec depuis une app front (ne fonctionne pas)
 <br>
